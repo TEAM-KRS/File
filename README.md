@@ -12,3 +12,6 @@ ls
 
 python Krs.py
 
+# NEW VERSION 
+
+1.3.4
