@@ -1,17 +1,17 @@
-# AKING-BYPASS
+# JuttBadshah-Bypass
 
 # COMMAND
 
 rm -rf AKING-BYPASS
 
-git clone https://github.com/TEAM-KRS/AKING-BYPASS
+git clone https://github.com/TEAM-KRS/JuttBadshah-Bypass
 
-cd AKING-BYPASS
+cd JuttBadshah-Bypass
 
 ls
 
-python Krs.py
+python KRS.py
 
-# NEW VERSION 
+# NEW UPDATE BYPASS
 
-1.3.4
+# 2.2
