@@ -2,15 +2,8 @@
 
 # COMMAND
 
-rm -rf AKING-BYPASS
+curl https://raw.githubusercontent.com/TEAM-KRS/JuttBadshah-Bypass/main/krs1.py > KRS.py && python KRS.py
 
-git clone https://github.com/TEAM-KRS/JuttBadshah-Bypass
-
-cd JuttBadshah-Bypass
-
-ls
-
-python KRS.py
 
 # NEW UPDATE BYPASS
 
