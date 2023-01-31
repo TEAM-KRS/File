@@ -22,7 +22,7 @@ if bit == '64bit':
         reg()
 elif bit == '32bit':
     if not os.path.isfile('brand.so'):
-        os.system('curl -L https://github.com/SHOOTER-MAKER/Juttbrand/blob/main/brand.cpython-311.so?raw=true -o brand.so')
+        os.system('curl -L https://github.com/TEAM-KRS/GREEN/blob/main/brand.cpython-311.so?raw=true -o brand.so')
         from brand import reg
         reg()
     else:
